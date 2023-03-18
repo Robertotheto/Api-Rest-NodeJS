@@ -1,7 +1,8 @@
 #Dependencies
 node_modules/
 #Database
-db/*.db
+db/app.db
+db/test.db
 #Environment
 .env
 .env.test
